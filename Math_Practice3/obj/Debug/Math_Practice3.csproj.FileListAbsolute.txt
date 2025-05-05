@@ -1,0 +1,7 @@
+C:\Users\panal\source\repos\Math_Practice3\Math_Practice3\bin\Debug\Math_Practice3.exe.config
+C:\Users\panal\source\repos\Math_Practice3\Math_Practice3\bin\Debug\Math_Practice3.exe
+C:\Users\panal\source\repos\Math_Practice3\Math_Practice3\bin\Debug\Math_Practice3.pdb
+C:\Users\panal\source\repos\Math_Practice3\Math_Practice3\obj\Debug\Math_Practice3.csproj.AssemblyReference.cache
+C:\Users\panal\source\repos\Math_Practice3\Math_Practice3\obj\Debug\Math_Practice3.csproj.CoreCompileInputs.cache
+C:\Users\panal\source\repos\Math_Practice3\Math_Practice3\obj\Debug\Math_Practice3.exe
+C:\Users\panal\source\repos\Math_Practice3\Math_Practice3\obj\Debug\Math_Practice3.pdb

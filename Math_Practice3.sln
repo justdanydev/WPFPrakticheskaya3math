@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math_Practice3", "Math_Practice3\Math_Practice3.csproj", "{BFE294B7-63AB-4206-BC60-A045862B1B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_math_practice3", "Wpf_math_practice3\Wpf_math_practice3.csproj", "{5C31C7AD-76D8-41E4-8C84-78045527F54F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE294B7-63AB-4206-BC60-A045862B1B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE294B7-63AB-4206-BC60-A045862B1B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE294B7-63AB-4206-BC60-A045862B1B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE294B7-63AB-4206-BC60-A045862B1B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C31C7AD-76D8-41E4-8C84-78045527F54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C31C7AD-76D8-41E4-8C84-78045527F54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C31C7AD-76D8-41E4-8C84-78045527F54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C31C7AD-76D8-41E4-8C84-78045527F54F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

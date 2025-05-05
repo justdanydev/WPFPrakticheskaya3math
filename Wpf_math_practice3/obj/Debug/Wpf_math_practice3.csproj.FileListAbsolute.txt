@@ -1,0 +1,15 @@
+C:\Users\panal\source\repos\Math_Practice3\Wpf_math_practice3\bin\Debug\Wpf_math_practice3.exe.config
+C:\Users\panal\source\repos\Math_Practice3\Wpf_math_practice3\bin\Debug\Wpf_math_practice3.exe
+C:\Users\panal\source\repos\Math_Practice3\Wpf_math_practice3\bin\Debug\Wpf_math_practice3.pdb
+C:\Users\panal\source\repos\Math_Practice3\Wpf_math_practice3\obj\Debug\Wpf_math_practice3.csproj.AssemblyReference.cache
+C:\Users\panal\source\repos\Math_Practice3\Wpf_math_practice3\obj\Debug\MainWindow.g.cs
+C:\Users\panal\source\repos\Math_Practice3\Wpf_math_practice3\obj\Debug\App.g.cs
+C:\Users\panal\source\repos\Math_Practice3\Wpf_math_practice3\obj\Debug\Wpf_math_practice3_MarkupCompile.cache
+C:\Users\panal\source\repos\Math_Practice3\Wpf_math_practice3\obj\Debug\Wpf_math_practice3_MarkupCompile.lref
+C:\Users\panal\source\repos\Math_Practice3\Wpf_math_practice3\obj\Debug\MainWindow.baml
+C:\Users\panal\source\repos\Math_Practice3\Wpf_math_practice3\obj\Debug\Wpf_math_practice3.g.resources
+C:\Users\panal\source\repos\Math_Practice3\Wpf_math_practice3\obj\Debug\Wpf_math_practice3.Properties.Resources.resources
+C:\Users\panal\source\repos\Math_Practice3\Wpf_math_practice3\obj\Debug\Wpf_math_practice3.csproj.GenerateResource.cache
+C:\Users\panal\source\repos\Math_Practice3\Wpf_math_practice3\obj\Debug\Wpf_math_practice3.csproj.CoreCompileInputs.cache
+C:\Users\panal\source\repos\Math_Practice3\Wpf_math_practice3\obj\Debug\Wpf_math_practice3.exe
+C:\Users\panal\source\repos\Math_Practice3\Wpf_math_practice3\obj\Debug\Wpf_math_practice3.pdb
